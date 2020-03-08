@@ -1,5 +1,5 @@
 // PARA EXECUTAR A APLICAÇÃO INSTALE O NODEJS
-// CONFIGURE E SALVE O ARQUIVO [] COM AS CONFIGURAÇÕES ABAIXO
+// CONFIGURE E SALVE O ARQUIVO [C:\[path]\.npmrc] COM AS CONFIGURAÇÕES ABAIXO
 // --------------
 // C:\[path]\.npmrc
 // --------------
